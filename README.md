@@ -8,7 +8,7 @@ Please contact the authros for the datasets:
   
 Pleasee **cite** this paper in your publications if it helps your research.
 ```
-@INPROCEEDINGS{Yan-2020-icpr,
+@INPROCEEDINGS{yan2020silh,
   author = {S. Yan and J. Wirta and J.-K. K{\"a}m{\"a}r{\"a}inen},
   title = {Silhouette Body Measurement Benchmarks},
   booktitle = {Int. Conf. on Pattern Recognition (ICPR)},
@@ -16,4 +16,8 @@ Pleasee **cite** this paper in your publications if it helps your research.
   address = {Milano, Italy (online)}
 }
 ```
-BODY-fit and BODY-rgb datasets can be accessed from Zenodo : https://doi.org/10.5281/zenodo.4096035 
+
+BODY-fit and BODY-rgb datasets can be accessed from Zenodo : 
+```
+  https://doi.org/10.5281/zenodo.5172126
+```
