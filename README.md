@@ -1,6 +1,10 @@
 # Silhouette-Body-Measurement-Benchmarks
 Code and Datasets for Silhouette Body Measurement Benchmarks (ICPR2020) paper
 
+The scans are collected by NOMO Technologies ( https://nomo3d.com/ ) Ltd, Finland. 
+To access the orginal scans, please contact NOMO.
+
+
 Please contact the authros for the datasets:
   - [Song Yan](https://scholar.google.com/citations?user=nmLU3wwAAAAJ&hl=en), song.yan at tuni.fi
   - [Joni-Kristian Kämäräinen](http://vision.cs.tut.fi/personal/JoniKamarainen/), joni.kamarainen at tuni.fi
